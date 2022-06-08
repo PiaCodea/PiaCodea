@@ -1,3 +1,0 @@
-Hola amantes del código. 
-Este no es una guía como tal, pues son solo ejercicios de pseudocódigo que quiero mantener en mi repositorio y quizás ayudar a alguien con algún problema. 
-¡Gracias! 😊
